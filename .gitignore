@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+ems.db
+*.sqlite3
+pytest_cache/
